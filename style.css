@@ -1,0 +1,124 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url('./viber_image_2024-02-24_19-14-45-882.png'), url('./viber_image_2024-02-24_19-31-15-329.png'), url('./viber_image_2024-02-24_19-26-21-082-removebg-preview.png');
+    background-position: 0px 00px, 79.2vw 576px, 0vw 1350px;
+    background-repeat: no-repeat;
+    background-size: 220px;
+}
+.header-logo{
+    font-family: 'Josefin Sans', sans-serif;
+    color: rgb(19, 49, 4);
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+.header-menu{
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Josefin Sans', sans-serif;
+    color: rgb(19, 49, 4);
+    list-style-type: '';
+    align-items: center;
+    width: 600px;
+}
+.header{
+display: flex;
+    justify-content: space-around;
+}
+.header-link{
+    text-decoration: none;
+}
+.img-row1{
+    width: 200px;
+    height: 200px;
+    border: 3px solid rgb(19, 49, 4);
+}
+.row1{
+    display: flex;
+    justify-content: space-around;
+    width: 80vw;
+    margin: 0 auto;
+    margin-top: 60px;
+}
+.text-row1{
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    color: rgb(19, 49, 4);
+    margin-top: 20px;
+   
+}
+.img-row2{
+    width: 200px;
+    height: 200px;
+    border: 3px solid rgb(19, 49, 4);
+}
+.row2{
+    display: flex;
+    justify-content: space-around ;
+    width: 80vw;
+    border-bottom:3px solid rgb(19, 49, 4) ;
+    padding-bottom: 40px;
+    margin-top: 30px;
+}
+.text-row2{
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    color: rgb(19, 49, 4);
+
+   
+}
+.img-row3{
+    width: 200px;
+    height: 200px;
+    border: 3px solid rgb(19, 49, 4);
+}
+.row3{
+    display: flex;
+    justify-content: space-around ;
+    width: 80vw;
+   
+}
+.text-row3{
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    color: rgb(19, 49, 4);
+
+   
+}
+.main-ukr{
+    font-family: 'Josefin Sans', sans-serif;
+    color: rgb(19, 49, 4);
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
+
+.wrapper{
+    display: flex;
+    justify-content: center;
+}
+.text-price{
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    color: rgb(19, 49, 4);
+    margin-top: 20px;
+
+}
+.footer{
+    width: 100vw;
+    height: 200px;
+    background-color:rgb(19, 49, 4, 0.25 );
+    margin-top: 30px;
+    
+}
+.footer-text{
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    color: rgb(19, 49, 4);
+    font-size: large;
+padding-top: 30px;
+
+
+}
